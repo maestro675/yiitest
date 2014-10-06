@@ -42,9 +42,6 @@ class UserIdentity extends CUserIdentity
 		else
 			$this->errorCode=self::ERROR_NONE;
 		return !$this->errorCode;
-<<<<<<< HEAD
 		*/
-=======
->>>>>>> 6e3bad53b5dc5df1a649519d37d2899736c03d7f
 	}
 }
